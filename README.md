@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy Andmar
+# ¡Hola! 👋 Soy Marisol
 
-Soy educador técnico y desarrollador Python apasionado por la innovación educativa. Finalizando Ingeniería en Computación en la UNC, me dedico a crear materiales interactivos y guías didácticas para enseñar programación de forma clara y divertida.
+Soy educador técnico y desarrollador Python apasionado por la innovación educativa,me dedico a crear materiales interactivos y guías didácticas para enseñar programación de forma clara y divertida.
 
 ## 🚀 Tecnologías y herramientas
 - Python | Django | Tkinter | APIs
