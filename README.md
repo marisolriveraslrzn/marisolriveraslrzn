@@ -1,18 +1,24 @@
-# ¡Hola! 👋 Soy Marisol
+## Hola! Saluda Marisol <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
-Soy educador técnico y desarrollador Python apasionado por la innovación educativa,me dedico a crear materiales interactivos y guías didácticas para enseñar programación de forma clara y divertida.
+🎓 Educadora STEAM | 🐍 Desarrolladora Python | 🎮 Diseñadora de experiencias didácticas interactivas
 
-## 🚀 Tecnologías y herramientas
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"><b>  Tecnologías y Herramientas:</b>
+
 - Python | Django | Tkinter | APIs
 - Jupyter | Colab | Rise 360
 - Linux/Windows | Git | GitHub Pages
 
-## 📚 Proyectos destacados
-- [Agenda educativa en Python](https://github.com/andmar963/agenda-python)
-- [Interfaz gráfica para estudiantes](https://github.com/andmar963/gui-estudiantes)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"><b> Proyectos Destacados:</b>
+- 🔍 [Los 5 Mejores Frameworks para Desarrollo Web](https://github.com/marisolriveraslrzn/Frameworks-de-Python)
+- 🧩 [Actividades gamificadas con micro:bit y simuladores](https://github.com/marisolriveraslrzn/Proyectos-microbit)  
+- 📦 [Proyectos Python Educativos y Aplicados](https://github.com/marisolriveraslrzn/Proyectos-Python-)  
 
-## 🎓 Formación y docencia
-Actualmente acompaño a estudiantes en el curso NetAcad de Python, desarrollando proyectos prácticos y portafolios aplicados.
+---
 
-## 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/marisolrivera96/) | [Correo](mailto:andmar@example.com)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"><b> 🌐 Conecta conmigo: </b>
+📎 [LinkedIn](https://www.linkedin.com/in/marisolrivera96/)  
+📬 mariversol96@gmail.com  
+
+---
+
+> 💡 *“La programación no solo se enseña, se narra, se juega y se vive.”*
