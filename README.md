@@ -15,8 +15,8 @@ Me apasiona transformar conceptos complejos en recursos accesibles, visuales e i
 | Categoría               | Ejemplo de repositorio                                      |
 |-------------------------|-------------------------------------------------------------|
 | 🧪 Simuladores educativos | [`Proyectos-microbit`](https://github.com/marisolriveraslrzn/Proyectos-microbit), [`flappy-bird`](https://github.com/marisolriveraslrzn/flappy-bird) |
-| 🎮 Gamificación en aula   | [`makecode-games`](https://github.com/marisolriveraslrzn/makecode-games), [`dino-t-rex`](https://github.com/marisolriveraslrzn/dino-t-rex) |
-| ⚙️ Automatización docente | [`Proyectos-Python`](https://github.com/marisolriveraslrzn/Proyectos-Python) – Scripts en Python para Excel y control docente |
+| 🎮 Gamificación en aula   | [`makecode-games`](https://github.com/marisolriveraslrzn/makecode-games), [`dino-t-rex`](https://github.com/marisolriveraslrzn/-dino-t-rex) |
+| ⚙️ Automatización docente | [`Proyectos-Python`](https://github.com/marisolriveraslrzn/Proyectos-Python-) – Scripts en Python para Excel y control docente |
 | 🧾 Materiales visuales     | Plantillas, rúbricas y guías diferenciadas en repositorios educativos |
 
 ---
